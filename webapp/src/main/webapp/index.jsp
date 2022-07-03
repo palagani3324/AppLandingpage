@@ -5,8 +5,7 @@
   <link href="style.css"> 
 <body>
   <div style="padding-left:16px">
-    <h1>First CI/CD pipeline Job  </h1> <br> 
-    <h1> Secound Line</h1> 
+    <h1>Project -2 CI/CD Pipeline Job - To Copy the Artifacts into S3 Bucket and deploy into Tomcat Server  </h1> <br> 
   </div>
 </body>
 </html>
