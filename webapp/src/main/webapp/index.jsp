@@ -5,8 +5,8 @@
   <link href="style.css"> 
 <body>
   <div style="padding-left:16px">
-<  <h1>Project -1 CI/CD Pipeline Job </h1> 
-
+<h1>2 Day Aws DevOps WorkShop </h1> 
+   
       
   </div>
 </body>
