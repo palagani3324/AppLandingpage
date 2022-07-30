@@ -5,7 +5,7 @@
   <link href="style.css"> 
 <body>
   <div style="padding-left:16px">
-<h1>2 Day Aws DevOps WorkShop </h1> 
+<h1>CI/CD Project 5 -  Deploy the artifacts into Docker Container </h1> 
    
       
   </div>
