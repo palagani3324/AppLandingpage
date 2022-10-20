@@ -8,14 +8,7 @@
 <h1>DevOps Workshop On AWS </h1> 
     
     
-    <h1>Day - 3 </h1> 
-    
-    <h1>Major CICD Project 1 – Deploying Developed Changes to
-Production server using Jenkins Plugin by Manual
-Configuration of the Servers. </h1> 
-    
-    
-    <h1> Afrin </h1>
+    <h1> CI/CD Project --->Deploy Artifacst with Docker </h1>
   
   </div>
 </body>
