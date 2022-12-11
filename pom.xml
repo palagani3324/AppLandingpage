@@ -18,7 +18,7 @@
 
   <modules>
     <module>server</module>
-    <module>webapp</module>
+    <module>webapp-1.001</module>
   </modules>
 
   <distributionManagement>
